@@ -1,0 +1,4 @@
+streamlit
+pillow
+opencv-contrib-python-headless
+rembg[cpu]
