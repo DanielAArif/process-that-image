@@ -1,6 +1,6 @@
 # Process That Image
 
-Process That Image is a light web-based image processing application built with Streamlit. The application provides simple image processing features, including background removal, background replacement, and image upscaling. Background removal is performed using U²-NetP through rembg, while image upscaling uses the FSRCNN super-resolution model with OpenCV DNN.
+Process That Image is a lightweight web-based image processing application built with Streamlit. The application provides simple image processing features, including background removal, background replacement, and image upscaling. Background removal is performed using U²-NetP through rembg, while image upscaling uses the FSRCNN super-resolution model with OpenCV DNN.
 
 The application is designed with a simple and responsive interface that can be accessed from both desktop and mobile devices.
 
