@@ -65,32 +65,10 @@ Image upscaling is performed using FSRCNN through OpenCV DNN Super Resolution.
 
 The pretrained FSRCNN models are included in the `models/` directory.
 
-## Screenshots
-
-### Image Upload
-
-<!-- Add screenshot here -->
-
-### Background Removal
-
-<!-- Add screenshot here -->
-
-### Background Replacement
-
-<!-- Add screenshot here -->
-
-### Image Upscaling
-
-<!-- Add screenshot here -->
-
-### Mobile View
-
-<!-- Add screenshot here -->
-
 ## Author
 
 **Daniel Abdillah Arif**
 
-LinkedIn: [LinkedIn Profile](linkedin-url)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-abdillah-arif-538a76418/)
 
-GitHub: [GitHub Profile](github-url)
+GitHub: [GitHub Profile](https://github.com/DanielAArif)
